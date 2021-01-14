@@ -5,7 +5,7 @@
  {<<"base64url">>,{pkg,<<"base64url">>,<<"1.0.1">>},1},
  {<<"blockchain">>,
   {git,"https://github.com/helium/blockchain-core.git",
-       {ref,"0ffc4b4045677ac13f7435081cc1d56c7fa7fc0f"}},
+       {ref,"cd9d14cffae7d8e82057711b0da2fd223cc485d6"}},
   0},
  {<<"chatterbox">>,
   {git,"https://github.com/joedevivo/chatterbox.git",
